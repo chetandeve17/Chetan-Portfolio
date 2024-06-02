@@ -1,0 +1,275 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.cover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.profile-pic {
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+.hero-section {
+    background-image: url(./assets/pexels-francesco-ungaro-281260.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100vh;
+}
+
+.hero {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-size: cover;
+    color: white;
+    margin:0;
+    padding-top: 200px;
+}
+
+.hello {
+    margin-top: 50px;
+    font-size: larger;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.che {
+    color: rgb(255, 229, 85);
+    font-size: xxx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3.greeting {
+    margin: 0;
+    padding-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-pic {
+    margin-bottom: 30px;
+}
+
+.prog {
+    margin: 0;
+    font-size: 30px;
+    color: rgb(73, 64, 200);
+    font-weight :bold
+}
+
+.web {
+    margin: 0;
+    font-size: 30px;
+    color: cyan;
+}
+
+.dev {
+    font-size: 20px;
+    font-style: unset;
+    color: white;
+}
+
+.pro {
+    font-size: 20px;
+    font-style: unset;
+    font-weight: bold;
+    color: rgb(39, 102, 151) ;
+}
+
+.role {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.line {
+    color: #FFECD6;
+}
+
+
+.left{
+    text-align: center;
+    padding-right: 20px;
+    justify-content:center;
+    gap: 50px;
+    display: flex;
+    align-items: center;
+
+}
+
+.mark{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.contact{
+    gap:20px;
+    padding: 20px 0 40px 0;
+    text-align: center;
+    background-color: #A7E6FF;
+}
+
+.linkedin{
+    display: flex;
+    align-items: center;
+
+
+}
+
+.insta{
+    display: flex;
+    align-items: center;
+
+}
+
+.gmail{
+    display: flex;
+    align-items: center;
+
+}
+
+.github{
+    display: flex;
+    align-items: center;
+}
+
+.git{
+    margin-right: 2px;
+}
+
+.left a{
+    text-decoration:none;
+}
+
+.limg{
+    margin-right: 1px;
+}
+
+.ins{
+    margin-right: 2px;
+}
+
+.gm{
+    margin-right: 2px;
+}
+
+.about{
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+
+}
+
+.aboutme{
+    text-align: center;
+    background-size: cover;
+    height: vh;
+    margin: 0;
+    padding-top: 80px;
+    border: 0;
+
+}
+
+.para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+    padding-top: 0%;
+    margin-bottom: 20px;
+    background-size: cover;
+    margin: 0;
+    padding-bottom: 80px;
+}
+
+.ab{
+    margin-bottom: 5px;
+    background-size: cover;
+    margin:0;
+    padding: 10px;
+    border: 0;
+
+}
+
+.education{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.edu{
+    margin: 0;
+}
+
+.degree{
+    font-weight: bold;
+}
+
+.college{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.skill{
+    text-align: center;
+    padding: 50px 0px;
+    background-color: #CAF4FF;
+}
+
+.ski{
+    padding: 20px;
+}
+
+.progress-bar{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 20px;
+    width: 100%;
+}
+
+.progress{
+    background-color: #00bfff;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.sk-list{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.sk-item{
+    width: 80%;
+    max-width: 400px;
+    margin: 10px;
+}
+
+.sk-item span {
+    display: block;
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+
+
